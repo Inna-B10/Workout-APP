@@ -11,5 +11,5 @@ export default defineConfig({
 		}
 	},
 	plugins: [react()],
-	base: '/exercise-scheduler/'
+	base: '/Workout-APP/'
 })
