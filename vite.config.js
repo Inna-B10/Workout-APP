@@ -11,5 +11,5 @@ export default defineConfig({
 		}
 	},
 	plugins: [react()],
-	base: '/Workout-APP/'
+	base: '/Workout-APP-_frontend_/'
 })
